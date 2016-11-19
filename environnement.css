@@ -1,0 +1,32 @@
+
+
+
+zone 1{
+
+width:     60px;
+height:     60px;
+
+background-color: black
+
+}
+
+
+zone 2{
+
+width:     160px;
+height:     100px;
+
+background-color: red
+
+
+}
+
+
+zone 3{
+
+width:     200px;
+height:     500px;
+
+background-color: blue;
+
+}
